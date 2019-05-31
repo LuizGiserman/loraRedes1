@@ -1,0 +1,144 @@
+
+@font-face {
+	font-family: 'organicfoodicons';
+	src:url('../fonts/organicfoodicons/organicfoodicons.eot?56tr8g');
+	src:url('../fonts/organicfoodicons/organicfoodicons.eot?56tr8g#iefix') format('embedded-opentype'),
+		url('../fonts/organicfoodicons/organicfoodicons.woff2?56tr8g') format('woff2'),
+		url('../fonts/organicfoodicons/organicfoodicons.ttf?56tr8g') format('truetype'),
+		url('../fonts/organicfoodicons/organicfoodicons.woff?56tr8g') format('woff'),
+		url('../fonts/organicfoodicons/organicfoodicons.svg?56tr8g#organicfoodicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.foodicon {
+	font-family: 'Times New Roman';
+	/*speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;*/
+	/* Better Font Rendering =========== */
+	/*-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;*/
+}
+
+/*Introdução*/
+.foodicon--desafios_iot::before{
+	content: "";
+}
+
+/*arquitetura*/
+.foodicon--topologia::before{
+	content: "";
+	}
+
+.foodicon--modulos_gateway::before{
+	content: ""
+}
+
+.foodicon--lorawan::before{
+	content: ""
+}
+
+/*Dispositivos Finais*/
+.foodicon--adr::before{
+	content: ""
+}
+
+.foodicon--classes_de_dispositivos::before{
+	content: ""
+}
+
+/*Modulação LoRa */
+.foodicon--chirp_spread_spectrum::before{
+	content: "";
+}
+
+
+.foodicon--jam::before {
+	content: "\e900";
+}
+.foodicon--radish::before {
+	content: "\e901";
+}
+.foodicon--carrot::before {
+	content: "\e902";
+}
+.foodicon--coconut::before {
+	content: "\e903";
+}
+.foodicon--corn::before {
+	content: "\e904";
+}
+.foodicon--cucumber::before {
+	content: "\e905";
+}
+.foodicon--eggplant::before {
+	content: "\e907";
+}
+.foodicon--ekobag::before {
+	content: "\e908";
+}
+.foodicon--grain::before {
+	content: "\e909";
+}
+.foodicon--grape::before {
+	content: "\e90a";
+}
+.foodicon--leaf::before {
+	content: "\e90b";
+}
+.foodicon--lemon::before {
+	content: "\e90c";
+}
+.foodicon--lettuce::before {
+	content: "A topologia de uma rede LoRa é composta pelos meios físico e digital e é organizada em camadas. Em seu mais baixo nível, há os sistemas-finais, todos podendo apresentar especificações diferentes quanto a sua bateria e a sua vazão para transmissão de dados. Esses dispositivos, por meio do protocolo \textit{Long Range Wide Area Network} (LoRaWAN protocol), transmitem para e recebem dados de um \textit{gateway}, conectados a um salto de distância. Os \textit{gateways} funcionam como uma ponte de dados entre os dispositivos finais e a rede internet. Eles, por meio do protocolo de internet, transmitem para e recebem pacotes de um servidor.";
+	font: x-small Arial;
+}
+.foodicon--mylk::before {
+	content: "\e90e";
+}
+.foodicon--mushrooms::before {
+	content: "\e90f";
+}
+.foodicon--onion::before {
+	content: "\e910";
+}
+.foodicon--pear::before {
+	content: "\e911";
+}
+.foodicon--pepper::before {
+	content: "\e912";
+}
+.foodicon--smoothie::before {
+	content: "\e913";
+}
+.foodicon--squeezer::before {
+	content: "\e914";
+}
+.foodicon--tomato::before {
+	content: "\e915";
+}
+.foodicon--watermelon::before {
+	content: "\e916";
+}
+.foodicon--apple::before {
+	content: "\e917";
+}
+.foodicon--banana::before {
+	content: "\e918";
+}
+.foodicon--basket::before {
+	content: "\e919";
+}
+.foodicon--blender::before {
+	content: "\e91a";
+}
+.foodicon--bread::before {
+	content: "\e91b";
+}
+.foodicon--broccoli::before {
+	content: "\e91c";
+}
